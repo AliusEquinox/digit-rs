@@ -1,0 +1,6 @@
+[package]
+name = "digit"
+version = "0.1.0"
+authors = ["Adrien Gresse <adrien.gresse@gmail.com>"]
+
+[dependencies]
